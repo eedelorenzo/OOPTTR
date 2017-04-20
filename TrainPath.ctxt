@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=inRoute\ outRoute\ locoNeededIn\ possibleStock\ checkFerry\ lengthIn\ colorNeeded\ xCoordsIn\ yCoordsIn
+comment0.target=TrainPath(CITY,\ CITY,\ int,\ java.util.ArrayList,\ boolean,\ int,\ COLOR,\ int[][],\ int[][])
+comment0.text=\r\n\ \r\n
+comment1.params=
+comment1.target=int\ claim()
+comment1.text=\r\n\ currently\ this\ just\ returns\ a\ 1,\ showing\ the\ path\ has\ been\ claimed\r\n
+numComments=2

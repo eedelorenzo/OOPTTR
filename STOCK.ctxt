@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=imgIdIn
+comment0.target=STOCK(java.lang.String)
+comment1.params=newVal
+comment1.target=void\ setValue(int)
+numComments=2

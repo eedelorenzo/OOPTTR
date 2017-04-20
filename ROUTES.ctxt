@@ -1,0 +1,4 @@
+#BlueJ class context
+comment0.params=city1In\ city2In\ pointsIn\ imgIdIn
+comment0.target=ROUTES(CITY,\ CITY,\ int,\ java.lang.String)
+numComments=1

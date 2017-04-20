@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=numOfPlayers
+comment0.target=Board(int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Board\r\n
+comment1.params=
+comment1.target=void\ initializePaths()
+comment2.params=
+comment2.target=void\ initializeStockArrays()
+comment3.params=activePlayer
+comment3.target=int[]\ genColorTotals(PlayerCharacter)
+numComments=4
