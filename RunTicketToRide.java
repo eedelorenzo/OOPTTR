@@ -17,8 +17,12 @@ import java.awt.Checkbox;
  * the tickets that are currently being displayed are just for testing, and will be moved
  * upon actual completion
  * 
- * @author (your name) 
- * @version (a version number)
+ * @author Leo Dohmann  
+ * @author Luke McKenna
+ * @author Emily DeLorenzo
+ * @author Matt LaNeve
+ * @author Edwin Svraka
+ * @version 5/1/17
  */
 public class RunTicketToRide extends JApplet 
 {
